@@ -12,6 +12,7 @@ gem 'puma', '~> 4.1'
 gem "haml-rails", "~> 2.0"
 gem 'friendly_id', '~> 5.4.0'
 gem "pundit"
+gem 'devise'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
